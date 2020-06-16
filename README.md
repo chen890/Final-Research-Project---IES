@@ -2,6 +2,8 @@
 
 IES - Israeli Employment Service
 This project is to investigate success factors of the Employment Circuits program of the IES.
+Data from 2014-2019 on job seekers in the program.
+Data is secret due its sensitivity on job seekers information
 
 To see the analysis download the HTML files and than open them (python HTML).
 
