@@ -1,7 +1,7 @@
 # Final-Academic-Research-Project
 
 IES - Israeli Employment Service
-This project is to analyze the success factors of the Israeli Employment Service placement program.
+Analyze success factors of the Israel Employment Service placement program.
 Data from 2014-2019 on job seekers in the program.
 Data is secret due its sensitivity on job seekers information
 
