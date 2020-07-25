@@ -1,0 +1,49 @@
+﻿Socio-demographics features,, Number of Job Seekers ,Weight (%)
+,,,
+,,,
+Gender,Male,"22,765",41%
+,Female,"33,224",59%
+Age,18-29,"9,192",16%
+,30-39,"15,213",27%
+,40-49,"19,304",34%
+,50-54,"8,386",15%
+,55+,"3,894",7%
+Religion,Jews,"23,887",43%
+,Muslims,"25,876",46%
+,Druze,"1,761",3%
+,Christianity ,"1,361",2%
+,Other,"3,102",6%
+,No Religion,2,0%
+Singal Parent,Yes,"5,880",11%
+,No,"50,109",89%
+Education,Primary School,"11,140",20%
+,Part Secondary school,"10,650",19%
+,Secondary school,"25,467",45%
+,Bagrut certificate,"2,436",4%
+,First Degree,"1,943",3%
+,Second Degree,732,1%
+,Third Degree,68,0%
+,Associate degree,"1,372",2%
+,License,10,0%
+,No Education,"2,171",4%
+Disability,None,"50,825",91%
+,1% to 19%,657,1%
+,20% to 39%,"1,966",4%
+,40% to 59%,"1,372",2%
+,60% to 100%,"1,169",2%
+Family Status,Single,"17,205",31%
+,Married,"25,117",45%
+,Divorced,"11,840",21%
+,Widow,"1,511",3%
+,Unknown,316,1%
+Number of kids under 18,None,"22,400",40%
+,1 to 3,"23,428",42%
+,4 to 6,"8,367",15%
+,7+,"1,794",3%
+Military Service / Sherut Leumi,None,"45,752",82%
+,Sherut Leumi,941,2%
+,Military Service,"9,296",17%
+Unemployment duration,<1 year,"4,519",8%
+,2 - 3 years,"5,166",9%
+,3> years,"46,100",82%
+,None,204,0%
